@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Catherine. I'm currently a senior BCS undergraduate at the University of Waterloo. 
+My name is Catherine. I'm currently a 4th year BCS undergraduate at the University of Waterloo. 
 
-I enjoy exploring different disciplines to become a more well-rounded individual. I have expertise in full-stack and front-end development, complemented by additional interests in product management and user experience & design, all cultivated through my experiences in the fintech sector. I've recently been learning game development in Unity and 3D-modeling with Blender. 
+I enjoy exploring different disciplines to become a more well-rounded individual. I have expertise in full-stack and front-end development, complemented by additional interests in product management and user experience & design, all cultivated through my experiences in the fintech sector.
 
 In my free time, I enjoy digital art, weightlifting and dancing. :dancer:
 
