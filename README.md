@@ -1,4 +1,4 @@
-# Welcome to my Github!
+# ✨ Welcome to my Github ✨
 
 <!--
 **xiec1377/xiec1377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Catherine. I'm currently a 4th year BCS undergraduate at the University of Waterloo. 
+Hi! 
 
-I enjoy exploring different disciplines to become a more well-rounded individual. I have expertise in full-stack and front-end development, complemented by additional interests in product management and user experience & design, all cultivated through my experiences in the fintech sector.
+I'm Catherine! I'm currently a 4th year undergraduate student at the University of Waterloo studying Computer Science.
 
-In my free time, I enjoy digital art, weightlifting and dancing. :dancer:
+My expertise is in full-stack and front-end development, but I love exploring different areas to become more well-rounded. I recently picked up a strong interest in product management and UX design through my experiences as an engineer.
+
+In my free time, I dabble in digital art, weightlifting and hip-hop dancing. :dancer:
 
